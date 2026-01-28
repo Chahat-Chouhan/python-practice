@@ -18,4 +18,7 @@ print(l2[3])
 # the result to a new list
 
 l3 = l1 + l2
-print(l3)
+print(l3)    # output = [1, 2, 3, 4, 'Chahat', 1.2, 0, True]
+
+l = l1 * 3
+print(l)   #output = [1, 2, 3, 4, 1, 2, 3, 4, 1, 2, 3, 4]
